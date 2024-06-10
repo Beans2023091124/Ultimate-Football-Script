@@ -1,4 +1,4 @@
-   local Rayfield = loadstring(game:HttpGet('https://github.com/Beans2023091124/Ultimate-Football-Script/new/main'))()
+   local Rayfield = loadstring(game:HttpGet('https://github.com/Beans2023091124/Ultimate-Football-Script/blob/main/Script.lua'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "🏈 Ultimate Football script🏈",
